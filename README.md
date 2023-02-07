@@ -1,16 +1,20 @@
 ### Hey there, I'm Čeda Nikolić👋
 
-## I'm a Front End Developer, ReactJs/NextJS developer and avid learner!
+## I'm a Full Stack Web Developer, ReactJs/NextJS/NodeJs/Express developer and avid learner!
 - Passionate about web development technologies!
 - Building cool projects. 
 - Contributing to the community.
 - Learning new web technologies.
+- Currently in process of learning Python.
 
 ## Frontend 
-* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Chakra-UI, Ants
+* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Tailwindcss, Framer Motion, React Query.
 
 ## Backend
-* Familiar with -  MONGODB, EXPRESS, NODE, TYPESCRIPT 
+* NODE, EXPRESS, Typescript, MONGODB/Mongoose, MySQL/Sequalize, Websockets, Prisma ORM
+
+### Portfolio: 
+- Coming soon
 
 ### Languages and Tools:
 
