@@ -8,10 +8,10 @@
 - Currently in process of learning Python.
 
 ## Frontend 
-* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Tailwindcss, Framer Motion, React Query.
+* HTML, CSS, Javascript, React, Redux, CSS Libraries, SASS, Typescript, Nexjs, Material UI, Tailwindcss, Framer Motion, React Query.
 
 ## Backend
-* NODE, EXPRESS, Typescript, MONGODB/Mongoose, MySQL/Sequalize, Websockets, Prisma ORM
+* Node, Express, Typescript, MongoDB/Mongoose, MySQL/Sequalize, Websockets, Prisma ORM
 
 ### Portfolio: 
 - Coming soon
