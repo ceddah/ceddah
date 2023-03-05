@@ -13,7 +13,7 @@
 ## Backend
 * Node, Express, Typescript, MongoDB/Mongoose, MySQL/Sequalize, Websockets, Prisma ORM
 
-### Portfolio: [Live Demo](https://creative-mochi-db6cda.netlify.app/)
+### Portfolio: [Live](https://creative-mochi-db6cda.netlify.app/)
 
 ### Languages and Tools:
 
