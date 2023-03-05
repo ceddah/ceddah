@@ -14,6 +14,9 @@
 * Node, Express, Typescript, MongoDB/Mongoose, MySQL/Sequalize, Websockets, Prisma ORM
 
 ### Portfolio: [Live](https://creative-mochi-db6cda.netlify.app/)
+### Contact Mail: 
+### Linkedin:
+
 
 ### Languages and Tools:
 
