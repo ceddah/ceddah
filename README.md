@@ -14,7 +14,7 @@
 * Node, Express, Typescript, MongoDB/Mongoose, MySQL/Sequalize, Websockets, Prisma ORM
 
 ### Portfolio: [Live](https://creative-mochi-db6cda.netlify.app/)
-### Contact Mail: [Send me a Message](mailto:cedanik1@gmail.com)
+### Contact Mail: [Send Message](mailto:cedanik1@gmail.com)
 ### Linkedin: [Čeda Nikolić](https://www.linkedin.com/in/%C4%8Deda-nikoli%C4%87-00b956241)
 
 
